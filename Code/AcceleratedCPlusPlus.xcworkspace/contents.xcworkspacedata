@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:test/test.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Chap0">
+      <FileRef
+         location = "group:Chap0_01_Helloworld/Chap0_01_Helloworld.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap0_0-2/Chap0_0-2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap0_0-3/Chap0_0-3.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Chap1">
+      <FileRef
+         location = "group:Chap01_1/Chap01_1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap01_2/Chap01_2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap01_1-6/Chap01_1-6.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Chap2">
+      <FileRef
+         location = "group:Chap2_2.2/Chap2_2.2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap2_2-1/Chap2_2-1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap2_2-3/Chap2_2-3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap2_2-5/Chap2_2-5.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap2_2-7/Chap2_2-7.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap2_2-8/Chap2_2-8.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap2_2-10/Chap2_2-10.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap2_2-9/Chap2_2-9.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Chap3">
+      <FileRef
+         location = "group:Chap3_3.1/Chap3_3.1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap3_3.2/Chap3_3.2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap3_3-1/Chap3_3-2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap3_3-3/Chap3_3-3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap3_3-4/Chap3_3-4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap3_3-5/Chap3_3-5.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Chap4">
+      <FileRef
+         location = "group:Chap4_4.1/Chap4_4.1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap4_4.2.2/Chap4_4.2.2.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
