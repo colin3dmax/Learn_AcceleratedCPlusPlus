@@ -89,5 +89,8 @@
       <FileRef
          location = "group:Chap4_4.2.2/Chap4_4.2.2.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:Chap4_4.3/Chap4_4.3.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
