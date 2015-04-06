@@ -10,6 +10,7 @@
 		3BD82CC51AD347B000E88867 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BD82CC41AD347B000E88867 /* main.cpp */; };
 		3BD82CCD1AD3487000E88867 /* median.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BD82CCB1AD3487000E88867 /* median.cpp */; };
 		3BD82CD01AD3496400E88867 /* Student_info.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BD82CCE1AD3496400E88867 /* Student_info.cpp */; };
+		3BD82CD31AD34B1600E88867 /* grade.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BD82CD11AD34B1600E88867 /* grade.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		3BD82CCC1AD3487000E88867 /* median.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = median.h; sourceTree = "<group>"; };
 		3BD82CCE1AD3496400E88867 /* Student_info.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Student_info.cpp; sourceTree = "<group>"; };
 		3BD82CCF1AD3496400E88867 /* Student_info.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student_info.h; sourceTree = "<group>"; };
+		3BD82CD11AD34B1600E88867 /* grade.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = grade.cpp; sourceTree = "<group>"; };
+		3BD82CD21AD34B1600E88867 /* grade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = grade.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 			isa = PBXGroup;
 			children = (
 				3BD82CC41AD347B000E88867 /* main.cpp */,
+				3BD82CD11AD34B1600E88867 /* grade.cpp */,
+				3BD82CD21AD34B1600E88867 /* grade.h */,
 				3BD82CCB1AD3487000E88867 /* median.cpp */,
 				3BD82CCE1AD3496400E88867 /* Student_info.cpp */,
 				3BD82CCF1AD3496400E88867 /* Student_info.h */,
@@ -129,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BD82CD01AD3496400E88867 /* Student_info.cpp in Sources */,
+				3BD82CD31AD34B1600E88867 /* grade.cpp in Sources */,
 				3BD82CC51AD347B000E88867 /* main.cpp in Sources */,
 				3BD82CCD1AD3487000E88867 /* median.cpp in Sources */,
 			);
