@@ -64,8 +64,12 @@ Chap3
 
 ================================================
 Chap4
+4-1
+std::string::size_type maxlen;
+Student_info s;
+max(s.name.size(),maxlen);
 
-
+4-2
 
 
 
