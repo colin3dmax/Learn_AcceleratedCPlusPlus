@@ -118,7 +118,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Chap4_4-6/Chap4_4-6/Student_info.cpp"
@@ -144,6 +144,22 @@
             startingLineNumber = "20"
             endingLineNumber = "20"
             landmarkName = "read_hw(std::istream&amp; in,std::vector&lt;double&gt;&amp; hw)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chap4_4-6/Chap4_4-6/Student_info.cpp"
+            timestampString = "450062420.755042"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "read(std::istream&amp; is,Student_info&amp; s)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

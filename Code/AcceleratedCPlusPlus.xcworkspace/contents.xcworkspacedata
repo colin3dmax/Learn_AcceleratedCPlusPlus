@@ -107,5 +107,8 @@
       <FileRef
          location = "group:Chap4_4-6/Chap4_4-6.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:Chap4_4-7/Chap4_4-7.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
