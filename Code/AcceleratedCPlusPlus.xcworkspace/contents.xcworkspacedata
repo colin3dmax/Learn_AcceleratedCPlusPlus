@@ -123,5 +123,11 @@
       <FileRef
          location = "group:Chap5_5.8/Chap5_5.8.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:Chap5_5-1/Chap5_5-1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap5_5-2/Chap5_5-2.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
