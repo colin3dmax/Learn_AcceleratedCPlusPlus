@@ -16,14 +16,17 @@ void extract_fails(vector<double>& scores)
 {
     vector<double>::size_type size = scores.size();
     vector<double>::size_type pass_size =0;
+    int index=0;
     for (vector<double>::iterator it=scores.begin(); it!=scores.end();++it ) {
-        if (*it>0) {
-            cout << "pass is "<< *it << endl;
-            scores.insert(scores.begin(), *it);
-            it++;
-            cout << "next is "<< *it << endl;
+        ++index;
+        if (*it>60) {
             ++pass_size;
+            cout << "pass is "<< *it << endl;
+            it = scores.insert(scores.begin(), *it);
+            it+=index+pass_size;
+            cout << "next is "<< *it << endl;
         }
+        
     }
     scores.resize(pass_size);
 }
@@ -31,7 +34,7 @@ void extract_fails(vector<double>& scores)
 int main(int argc, const char * argv[]) {
     vector<double> scores;
     srand((unsigned)time(nullptr));
-    for (int i=0; i<50; ++i) {
+    for (int i=0; i<100; ++i) {
         int score = rand()%100;
 //        cout << score << endl;
         scores.push_back(score);
