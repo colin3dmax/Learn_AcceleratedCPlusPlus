@@ -69,7 +69,10 @@ std::string::size_type maxlen;
 Student_info s;
 max(s.name.size(),maxlen);
 
-4-2
+4-8
+double f(){};
+4-9
+
 
 
 
