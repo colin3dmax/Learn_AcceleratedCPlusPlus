@@ -138,5 +138,27 @@
       <FileRef
          location = "group:Chap5-5-6/Chap5-5-6.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:Chap5_5-9/Chap5_5-9.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap5_5-10/Chap5_5-10.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap5_5-11/Chap5_5-11.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Chap6">
+      <FileRef
+         location = "group:Chap6_1.3/Chap6_1.3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap6_1.2/Chap6_1.2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap6_1.1/Chap6_1.1.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
