@@ -139,4 +139,11 @@
          location = "group:Chap5-5-6/Chap5-5-6.xcodeproj">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Chap6">
+      <FileRef
+         location = "group:Chap6_6.2/Chap6_6.2.xcodeproj">
+      </FileRef>
+   </Group>
 </Workspace>
