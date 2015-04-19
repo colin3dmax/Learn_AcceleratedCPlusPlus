@@ -152,13 +152,25 @@
       location = "container:"
       name = "Chap6">
       <FileRef
-         location = "group:Chap6_1.3/Chap6_1.3.xcodeproj">
+         location = "group:Chap6_6-5/Chap6_6-5.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap6_1.1/Chap6_1.1.xcodeproj">
       </FileRef>
       <FileRef
          location = "group:Chap6_1.2/Chap6_1.2.xcodeproj">
       </FileRef>
       <FileRef
-         location = "group:Chap6_1.1/Chap6_1.1.xcodeproj">
+         location = "group:Chap6_1.3/Chap6_1.3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap6_6.3.1/Chap6_6.3.1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap6_6-1/Chap6_6-1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap6_6-3/Chap6_6-3.xcodeproj">
       </FileRef>
    </Group>
 </Workspace>
