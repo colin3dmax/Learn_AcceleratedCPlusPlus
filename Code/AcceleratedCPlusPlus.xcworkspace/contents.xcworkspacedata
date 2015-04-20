@@ -173,4 +173,20 @@
          location = "group:Chap6_6-3/Chap6_6-3.xcodeproj">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Chap7">
+      <FileRef
+         location = "group:Chap7_7.3/Chap7_7.3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap7_7.2/Chap7_7.2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap7_7.4.2/Chap7_7.4.2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Chap7_7-1/Chap7_7-1.xcodeproj">
+      </FileRef>
+   </Group>
 </Workspace>
