@@ -14,7 +14,7 @@ using namespace std;
 //如何一边插入，还能保证后续的迭代能够正常进行
 void extract_fails(vector<double>& scores)
 {
-    vector<double>::size_type size = scores.size();
+//    vector<double>::size_type size = scores.size();
     vector<double>::size_type pass_size =0;
     int index=0;
     for (vector<double>::iterator it=scores.begin(); it!=scores.end();++it ) {
